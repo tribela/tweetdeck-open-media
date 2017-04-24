@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Tweetdeck media opener
-// @namespace    https://kjwon15.net/tweetdeck-open-media
+// @namespace    https://github.com/Kjwon15/tweetdeck-open-media
 // @version      0.1
 // @description  Press "o" to open media in selected tweet.
 // @author       Kjwon15
