@@ -5,6 +5,7 @@
 // @description  Press "o" to open media in selected tweet.
 // @author       Kjwon15
 // @match        https://tweetdeck.twitter.com/*
+// @updateURL https://github.com/kjwon15/tweetdeck-open-media/raw/master/tweetdeck-open-media.user.js
 // ==/UserScript==
 
 /* jshint esnext: false */
