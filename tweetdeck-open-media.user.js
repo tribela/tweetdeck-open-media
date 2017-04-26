@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tweetdeck media opener
 // @namespace    https://github.com/Kjwon15/tweetdeck-open-media
-// @version      0.1
+// @version      0.2
 // @description  Press "o" to open media in selected tweet.
 // @author       Kjwon15
 // @match        https://tweetdeck.twitter.com/*
@@ -13,7 +13,7 @@
 
 function openMedia() {
   let selectedTweet = document.querySelector('.is-selected-tweet');
-  let firstMedia = selectedTweet.querySelector('.media-preview a');
+  let firstMedia = selectedTweet.querySelector('.js-media a');
   if (firstMedia) {
     firstMedia.click();
   }
