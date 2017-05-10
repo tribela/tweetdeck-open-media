@@ -8,6 +8,8 @@ So I made it for convenience.
 
 Just press "o" to preview images in selected tweet.
 
+<kbd>y</kbd> to Copy current tweet's permalink or opened image's URL.
+
 
 ## Install
 
