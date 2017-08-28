@@ -6,14 +6,14 @@ So I made it for convenience.
 
 ## Usage
 
-Just press "o" to preview images in selected tweet.
+Just press <kbd>o</kbd> to preview images in selected tweet.
 
 <kbd>y</kbd> to Copy current tweet's permalink or opened image's URL.
 
 
 ## Install
 
-Click [here][userscript] to install on Greasemonkey ans their family.
+Click [here][userscript] to install on Greasemonkey and their family.
 
 [userscript]: https://github.com/kjwon15/tweetdeck-open-media/raw/master/tweetdeck-open-media.user.js
 
